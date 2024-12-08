@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1690303165 source:c:\users\hp\documents\myapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1720546349 source:c:\users\hp\onedrive\documents\myapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
